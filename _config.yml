@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               'Taunt Jekyll Theme'
-url:                 https://bradleytaunt.com
-tagline:             The personal theme of Bradley Taunt
+title:               'Piled Up Flowers'
+url:                 https://snwrd.com
+tagline:             Pruning here.
 paginate:            1000
 paginate_path:       "/page:num/"
 baseurl:             ""
@@ -22,14 +22,14 @@ sass:
 
 # About/contact
 author:
-  name:              Bradley Taunt
-  url:               https://twitter.com/bradtaunt
-  email:             bradleytaunt@gmail.com
+  name:              Sean Ward
+  url:               https://twitter.com/seantward
+  email:             seanthomasward@gmail.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/bradleytaunt/taunt-jekyll
+  repo:              https://github.com/kumajelly
 
 # Plugins
 plugins:
