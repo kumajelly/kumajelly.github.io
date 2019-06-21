@@ -6,8 +6,6 @@ author: "Sean Ward"
 meta:
 ---
 
-# A Journey into UX
-
 ![](/images/9ef5f-1ycx6b7rzqlixgj_hbfputa.jpeg)
 
 
@@ -168,7 +166,7 @@ A few key takeaways:
 
 Quickly tried to make a tap-able prototype with my paper prototype in Marvel App online but found it less intuitive like InVision. Will revisit maybe later after learning how to make wireframes and a prototype.
 
-Focused on learning Sketch to build wireframes. It has been fun and a little difficult getting used to how Sketch behaves. So I will probably go through the sketch crash with ![Sketch Together on Youtube](https://youtu.be/cEplnCnZuDM).
+Focused on learning Sketch to build wireframes. It has been fun and a little difficult getting used to how Sketch behaves. So I will probably go through the sketch crash with [Sketch Together on Youtube](https://youtu.be/cEplnCnZuDM).
 
 But I got the wireframes done — super satisfying. I am building new features into iMessage for iOS that would help identify people’s timezones when communicating abroad, connecting multiple services and sending quick photo/video messages (trying to reduce the number of taps or changing the flow for users to share items).
 
