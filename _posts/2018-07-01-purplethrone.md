@@ -48,18 +48,6 @@ During her commute, Jasmine James uses the PurpleThrone app to discover new musi
 
 **Basic process:** Stakeholder interview > Industry Research > OKRs > User Research > Synthesis > Design > Prototype > Test > Next Steps > Stakeholder Presentation
 
-# Deliverables
-
-[Research Report](/s/PT_ResearchReport.pdf)
-
-[User Persona](/s/PT_JJpersona.pdf)
-
-[Specifications Document](/s/PT_SpecificationsDocument.pdf)
-
-[Presentation Deck](/s/PT_PresentationDeck.pdf)
-
-[Full Details on Medium](https://medium.com/@snwrd/client-purplethrone-that-hip-hop-artist-next-door-e9783730f19a)
-
 # Timeline
 
 ![](/images/ecdb3-pttimeline.png)
