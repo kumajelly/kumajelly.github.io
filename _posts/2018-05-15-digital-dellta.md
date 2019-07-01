@@ -245,7 +245,7 @@ We also introduced a portfolio assessment worksheet for Teachers and Teaching Ar
 
 [![ Portfolio Template Final ](/images/549c2-1532371745370.png)](/documents/portfolio-v3-temp.pdf) Portfolio Template Final
 
-[![ Educators Portfolio ](/images/0e497-portfoliov3teacher.png)](/s/portfolio-v3-teacher.pdf) Educators Portfolio
+[![ Educators Portfolio ](/images/0e497-portfoliov3teacher.png)](/documents/portfolio-v3-teacher.pdf) Educators Portfolio
 
 # Next Steps
 
