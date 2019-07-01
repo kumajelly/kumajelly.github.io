@@ -2,7 +2,7 @@
 title: "Designing Digital DELLTA"
 date: "2018-05-15"
 coverImage: "blogpost.png"
-categories: design, education
+categories: design education
 author: "Sean Ward"
 meta:
 ---
@@ -21,7 +21,7 @@ US ED grant funded Arts Education program for Middle School ELLs and ESL teacher
 
 ArtsConnection's Digital DELLTA (Developing English Language Literacy through the Arts) is a US ED grant funded Arts Education program for Middle School ELLs and ESL teachers. It blends arts, language and technology learning to provide collaborative opportunities that support second language acquisition.
 
-[](www.youtube.com/watch?v=DeA6t90Fh8I&w=854&h=480)
+[Digital DELLTA Overview](https://youtu.be/DeA6t90Fh8I)
 
 # Project Brief
 
@@ -229,7 +229,7 @@ We also introduced a portfolio assessment worksheet for Teachers and Teaching Ar
 
 **1.** Freeform structure produced by students.
 
-[](www.youtube.com/watch?v=W89Ye47aK\_4&w=640&h=480)
+[Portfolio Version 1](https://youtu.be/W89Ye47aK_4)
 
 **2.** Template, synthesized from student freeform, teaching artist curriculum, teacher goals and observational data.
 
@@ -239,7 +239,7 @@ We also introduced a portfolio assessment worksheet for Teachers and Teaching Ar
 
 [![ Portfolio Template v1 Edited ](/images/7310b-portfoliov2tempv2revised.png)](/s/portfolio-v2-tempv2-revised.pdf) Portfolio Template v1 Edited
 
-[](www.youtube.com/watch?v=wQ3S9jdq\_8U&w=854&h=480)
+[Portfolio Version 2](https://youtu.be/wQ3S9jdq_8U)
 
 **4.** Template finalized and implemented. Teachers also produce their own portfolio based on arts learning and observations of students.
 
