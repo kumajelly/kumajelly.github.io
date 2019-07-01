@@ -233,17 +233,17 @@ We also introduced a portfolio assessment worksheet for Teachers and Teaching Ar
 
 **2.** Template, synthesized from student freeform, teaching artist curriculum, teacher goals and observational data.
 
-[![ Portfolio Template v1 ](/images/e1438-portfoliotemplatev1.png)](/s/portfolio-v2-tempv1.pdf) Portfolio Template v1
+[![ Portfolio Template v1 ](/images/e1438-portfoliotemplatev1.png)](/documents/portfolio-v2-tempv1.pdf) Portfolio Template v1
 
 **3.** Template Edited with teachers, teaching artists and program manager based on observational data.
 
-[![ Portfolio Template v1 Edited ](/images/7310b-portfoliov2tempv2revised.png)](/s/portfolio-v2-tempv2-revised.pdf) Portfolio Template v1 Edited
+[![ Portfolio Template v1 Edited ](/images/7310b-portfoliov2tempv2revised.png)](/documents/portfolio-v2-tempv2-revised.pdf) Portfolio Template v1 Edited
 
 [Portfolio Version 2](https://youtu.be/wQ3S9jdq_8U)
 
 **4.** Template finalized and implemented. Teachers also produce their own portfolio based on arts learning and observations of students.
 
-[![ Portfolio Template Final ](/images/549c2-1532371745370.png)](/s/portfolio-v3-temp.pdf) Portfolio Template Final
+[![ Portfolio Template Final ](/images/549c2-1532371745370.png)](/documents/portfolio-v3-temp.pdf) Portfolio Template Final
 
 [![ Educators Portfolio ](/images/0e497-portfoliov3teacher.png)](/s/portfolio-v3-teacher.pdf) Educators Portfolio
 
