@@ -5,7 +5,6 @@ categories: art
 author: "Sean Ward"
 meta:
 ---
-
 > Dear -,
 
 > I would like to invite you to participate in an exhibition I am organizing at Julius Caesar juliuscaesarchicago.org, an artist-run space in Chicago. I was co-director at Julius Caesar and currently am a consultant to the space. The exhibition will be on Sunday, May 5th, 2013 continuing through the month, with open hours on the weekends.The working title is Reading Room. Similar to the large rooms as that in the New York Public Library Bryant Park, I want to dedicate Caesar's space to the various types of reading- leisure, research, skimming, etc. The space's floor will be covered in various rustic rag rugs for visitors to sit upon, move around, and lounge on. While the books, publications, zines, etc are placed along the perimeter of the wall for visitors to engage with.
