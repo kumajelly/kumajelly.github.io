@@ -1,6 +1,6 @@
 ---
-title: “Reading Room“
-date: "2013-05-05”
+title: "Reading Room"
+date: "2013-005-05"
 categories: art
 author: "Sean Ward"
 meta:
