@@ -5,7 +5,7 @@ permalink:           pretty
 title:               'Sean Ward'
 url:                 https://snwrd.com
 tagline:             💐Pruning here.
-paginate:            1000
+paginate:            10
 paginate_path:       "/page:num/"
 baseurl:             ""
 
