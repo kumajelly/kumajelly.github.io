@@ -36,3 +36,4 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-seo-tag
+  - jekyll-archives
