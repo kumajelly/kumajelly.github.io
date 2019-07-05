@@ -1,7 +1,7 @@
 ---
 title: "Payment & Onboarding"
 date: "2018-07-01"
-categories: design
+categories: uxd
 author: "Sean Ward"
 meta:
 ---
