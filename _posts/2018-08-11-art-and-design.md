@@ -1,7 +1,7 @@
 ---
 title: "Art & Design"
 date: "2018-08-11"
-categories: design
+categories: writing
 author: "Sean Ward"
 meta: 
 ---
