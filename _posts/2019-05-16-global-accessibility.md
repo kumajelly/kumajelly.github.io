@@ -43,8 +43,7 @@ Join the livestream of [Outing: NYC Digital Inclusion Conference 2019](https://b
 Check out the nearest [A11y Project event](https://a11yproject.com/events)!
 
 **Resources:**
-[W3C Accessibility] (https://www.w3.org/standards/webdesign/accessibility 
-[WCAG 2.1 Accessibility Standard](https://www.w3.org/TR/WCAG21/)
-[A11ycasts video series](https://www.youtube.com/results?search_query=a11ycasts)
-[Disability:IN best practices](https://disabilityin.org/best-practices/)
-
+- [W3C Accessibility](https://www.w3.org/standards/webdesign/accessibility)
+- [WCAG 2.1 Accessibility Standard](https://www.w3.org/TR/WCAG21/)
+- [A11ycasts video series](https://www.youtube.com/results?search_query=a11ycasts)
+- [Disability:IN best practices](https://disabilityin.org/best-practices/)
