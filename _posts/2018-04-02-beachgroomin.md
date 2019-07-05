@@ -2,7 +2,7 @@
 title: "Insights While BEACHGROOM.in"
 date: "2018-04-02"
 coverImage: "blogpost1.png"
-categories: design
+categories: uxd
 author: "Sean Ward"
 meta:
 ---
