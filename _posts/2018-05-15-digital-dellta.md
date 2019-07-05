@@ -2,7 +2,7 @@
 title: "Designing Digital DELLTA"
 date: "2018-05-15"
 coverImage: "blogpost.png"
-categories: design education
+categories: lxd
 author: "Sean Ward"
 meta:
 ---
