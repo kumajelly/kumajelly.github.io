@@ -1,0 +1,18 @@
+---
+title: "Poor Holes in collaboration with Magalie Guerin"
+date: "2010-08-15"
+categories: art
+author: "Sean Ward"
+meta:
+---
+
+![](/images/10-likenot-poorholes-1.jpg)
+![](/images/10-likenot-poorholes-2.jpg)
+![](/images/10-likenot-poorholes-3.jpg)
+![](/images/10-likenot-poorholes-4.jpg)
+![](/images/10-likenot-poorholes-5.jpg
+![](/images/10-likenot-poorholes-6.jpg)
+![](/images/10-likenot-poorholes-7.jpg)
+![](/images/10-likenot-poorholes-8.jpg)
+![](/images/10-likenot-poorholes-9.jpg)
+![](/images/10-likenot-poorholes-10.jpg)
