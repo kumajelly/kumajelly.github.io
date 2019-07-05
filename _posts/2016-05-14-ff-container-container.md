@@ -6,7 +6,7 @@ author: "Sean Ward"
 meta:
 ---
 
-Curated exhibition.
+Curated exhibition at [Fastnet NYC](http://fastnet.nyc/container-container/).
 
 Professor Yoshie Takahashi and her students in collaboration with ceramic artist Marc Isaacs exhibit Ikenobo Ikebana arrangements while presenting ceramic containers reflective of the Spring season in the environment of Fastnet.
 
