@@ -6,7 +6,7 @@ author: "Sean Ward"
 meta:
 ---
 
-In collaboration with [Magalie Guerin](https://www.magalieguerin.com) at Poor Farm, "The Great Poor Farm Experiment II", Manawa, WI.
+In collaboration with [Magalie Guerin](https://www.magalieguerin.com) at Poor Farm, "The Great Poor Farm Experiment II", Manawa, WI.
 
 ![](/images/10-likenot-poorholes-1.jpg)
 ![](/images/10-likenot-poorholes-2.jpg)
