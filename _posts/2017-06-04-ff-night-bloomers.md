@@ -17,8 +17,8 @@ At Compound Yellow, a group of artists abroad were asked to create containers fo
 Finger Flowers is an experimental project and a question about adopted ancient arts in contemporary culture, Buddhism in Transcendentalism's legacy, and an east to west movement rather than a westernization. The completed *objects*, container and flowers, being singular and ephemeral allows for meditation around economy, preservation, and spirituality.
 
 
-> Hand out heads, I rebuked on a platter sniffling drowsy fat
-> I have enough cash to get damp, silver later
+> Hand out heads, I rebuked on a platter sniffling drowsy fat/
+> I have enough cash to get damp, silver later/
 > While snipping orchids Saturday
 > - Moribana poem 2016-01-12, Sean Ward
 
@@ -60,71 +60,37 @@ The Japanese Discipline of the Art of arranging flowers traces its origin to the
 The Ikebana practitioner seeks to quietly share in the universal life force during the creation of an arrangement. The brief interaction with live materials is both a meditation and an art which must happen precisely and in one sitting. The beauty of each season is expressed through a vast knowledge of techniques and a firm understanding of a plant’s place in nature.  While many westerners look to the flower in full bloom as an ideal, the Ikebana practitioner sees this as the end of life. Buds, branches, and leaves just beginning to peak out from their origins are sought after as they express the wheel of life.
 
 ![](/images/17-ffnb-1.jpg)
-
 ![](/images/17-ffnb-2.jpg)
-
 ![](/images/17-ffnb-3.jpg)
-
 ![](/images/17-ffnb-4.jpg)
-
 ![](/images/17-ffnb-5.jpg)
-
 ![](/images/17-ffnb-6.jpg)
-
 ![](/images/17-ffnb-7.jpg)
-
 ![](/images/17-ffnb-8.jpg)
-
 ![](/images/17-ffnb-9.jpg)
-
 ![](/images/17-ffnb-10.jpg)
-
 ![](/images/17-ffnb-11.jpg)
-
 ![](/images/17-ffnb-12.jpg)
-
 ![](/images/17-ffnb-13.jpg)
-
 ![](/images/17-ffnb-14.jpg)
-
 ![](/images/17-ffnb-15.jpg)
-
 ![](/images/17-ffnb-16.jpg)
-
 ![](/images/17-ffnb-17.jpg)
-
 ![](/images/17-ffnb-18.jpg)
-
 ![](/images/17-ffnb-19.jpg)
-
 ![](/images/17-ffnb-20.jpg)
-
 ![](/images/17-ffnb-21.jpg)
-
 ![](/images/17-ffnb-22.jpg)
-
 ![](/images/17-ffnb-23.jpg)
-
 ![](/images/17-ffnb-24.jpg)
-
 ![](/images/17-ffnb-25.jpg)
-
 ![](/images/17-ffnb-26.jpg)
-
 ![](/images/17-ffnb-27.jpg)
-
 ![](/images/17-ffnb-28.jpg)
-
 ![](/images/17-ffnb-29.jpg)
-
 ![](/images/17-ffnb-30.jpg)
-
 ![](/images/17-ffnb-31.jpg)
-
 ![](/images/17-ffnb-32.jpg)
-
 ![](/images/17-ffnb-33.jpg)
-
 ![](/images/17-ffnb-34.jpg)
-
 ![](/images/17-ffnb-35.jpg)
