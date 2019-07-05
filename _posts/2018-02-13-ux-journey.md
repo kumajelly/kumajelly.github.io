@@ -1,7 +1,7 @@
 ---
 title: "A Journey into UX"
 date: "2018-02-13"
-categories: design
+categories: writing
 author: "Sean Ward"
 meta:
 ---
