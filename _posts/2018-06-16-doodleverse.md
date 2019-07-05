@@ -2,7 +2,7 @@
 title: "Nurturing Creativity"
 date: "2018-06-16"
 coverImage: "dblogpost.png"
-categories: design
+categories: uxd
 author: "Sean Ward"
 meta:
 ---
