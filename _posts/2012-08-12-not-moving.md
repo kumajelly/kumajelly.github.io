@@ -1,6 +1,6 @@
 ---
 title: "Not Moving"
-date: "2018-02-13"
+date: "2012-08-12"
 categories: art
 author: "Sean Ward"
 meta:
