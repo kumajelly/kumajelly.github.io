@@ -24,8 +24,6 @@ But I believe that art making and design live in each other’s wheel house �
 
 * * *
 
-![](/images/9a786-1sw53re2cqty5bthtjxcpxq.png)
-
 So I wanted to try to understand where my art practice — the what and how it worked — lives with my design practice. To do this I mapped out my art practice in a flow. But as you may notice I found it difficult to define what is an action versus a process since many things feel like both. So I resolved to letting ‘actions’ be initial jumping off points for longer series of actions which are identified as ‘processes’.
 
 ![](/images/b5be2-17fnmylkfygm6awrzno5lkg.png)
