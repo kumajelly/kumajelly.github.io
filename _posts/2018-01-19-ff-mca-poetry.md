@@ -11,11 +11,7 @@ Curated workshops at [Museum of Contemporary Art, Chicago](https://mcachicago.or
 Inspired by Sean Ward’s Night Bloomers, Compound Yellow in collaboration with Poetry Foundation leads a series of workshops reflecting on Edra Soto’s Open 24 Hours. All experience levels are welcome to join a series of collaborative activities featuring a drawing workshop led by Chicago-based artist Alberto Aguilar, a poetry workshop led by Poetry Foundation Library Coordinator Maggie Queeney, and an instrument-building and sound-making workshop led by multidisciplinary artist Dan Godston.
 
 ![](/images/DSC_0138.JPG)
-
 ![](/images/DSC_0149.JPG)
-
 ![](/images/DSC_0150.JPG)
-
 ![](/images/DSC_0151.JPG)
-
 ![](/images/DSC_0152.JPG)
