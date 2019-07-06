@@ -6,6 +6,8 @@ author: "Sean Ward"
 meta:
 ---
 
+Curated exhibition and workshop at [Compound Yellow](https://compoundyellow.com/past-events#/night-bloomers).
+
 > I remember my mother grabbing the dandelion from my sister’s mouth. Picking pretty things was her interest - wild flowers and flowering weeds her favorite. 
 > - Sean Ward
 
