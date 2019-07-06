@@ -8,7 +8,7 @@ meta:
 
 The odd couple.
 
-![](/images/3394e-1qu5pid-zficxeuurclgmtw.png "Two men facing each other on a bench")
+![](/images/3394e-1qu5pid-zficxeuurclgmtw.png "Two men on a bench, one labeled design the other art")
 
 As an artist and educator turned UX designer I have been taking note of the parallels and differences between the practice of art making and design.
 
