@@ -1,5 +1,5 @@
 ---
-title: "Things tried, body sacks in a landscape"
+title: "Things tried, body sacks tried, again"
 date: "2011-04-10"
 categories: art
 author: "Sean Ward"
