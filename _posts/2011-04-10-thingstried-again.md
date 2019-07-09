@@ -8,7 +8,7 @@ meta:
 
 > “I wanna please you, tell me what to do.”
 
-[You’re So Right, I Want Your (Hands on Me) - Video](/images/11-handson-1.mov)
+[You’re So Right, I Want Your (Hands on Me) - Video](https://youtu.be/7c1xhGRflqc)
 
 
 > “I tried bagging it. I tried frying it. I tried a hammer. I tried containing it. I tried sexing it up. I tried gluing it. I tried flushing. I tried adding color. I tried some new thing. I tried fattening it up.  I tried revealing it. I tried making a joke. We accepted it any way it came.”
