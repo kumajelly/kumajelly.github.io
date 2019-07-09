@@ -6,7 +6,9 @@ author: "Sean Ward"
 meta:
 ---
 
-Exhibition, Cloud Gate at Monya Rowe Gallery, NYC.
+"Camp" for exhibition, Cloud Gate, at Monya Rowe Gallery, NYC.
+
+> “How we gather, the quality of our gathering. Planning, talking, leisure. Assembling to use space to point. Forcing the space to surround, to move around the obstacle. Parks, streets, homes, the kitchen table are occupied. To amass in time, to have a place to gather - we must set up camp.”
 
 ![](/images/11-bodysacks-bed-1.jpg)
 
