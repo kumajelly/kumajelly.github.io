@@ -51,10 +51,6 @@ meta:
 
 ![](/images/11-thingstried-19.jpg)
 
-![](/images/11-thingstried-20.jpg)
-
-![](/images/11-thingstried-21.jpg)
-
 ![](/images/11-thingstried-22.jpg)
 
 ![](/images/11-thingstried-23.gif)
