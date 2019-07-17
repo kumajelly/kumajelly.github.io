@@ -16,12 +16,19 @@ left in the wind
 blowing from track to track
 
 
-> let them look up
-> necks and heads dine in
-> looking at their dish
-> say hello
-> to her and you
-> let them up over here to you
+
+let them look up
+
+necks and heads dine in
+
+looking at their dish
+
+say hello
+
+to her and you
+
+let them up over here to you
+
 
 
 > we will not carry coals
