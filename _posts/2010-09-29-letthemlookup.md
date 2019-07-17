@@ -5,7 +5,7 @@ categories: art
 author: "Sean Ward"
 meta:
 ---
-> bingo cards
+bingo cards
 torn from b to g
 thinking of you
 left in the wind
