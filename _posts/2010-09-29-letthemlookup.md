@@ -6,14 +6,10 @@ author: "Sean Ward"
 meta:
 ---
 > bingo cards
-
-> torn from b to g
-
-> thinking of you
-
-> left in the wind
-
-> blowing from track to track
+torn from b to g
+thinking of you
+left in the wind
+blowing from track to track
 
 
 > let them look up
