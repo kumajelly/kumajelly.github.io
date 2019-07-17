@@ -15,7 +15,7 @@ left in the wind
 
 blowing from track to track
 
-
+-
 
 let them look up
 
@@ -29,27 +29,43 @@ to her and you
 
 let them up over here to you
 
+-
 
+we will not carry coals
 
-> we will not carry coals
-> to the fire or from the fire
-> we will not carry them
-> unless the one who asks us
-> asks us because they are moving
+to the fire or from the fire
 
+we will not carry them
 
-> whole, whose end is not
-> everything that is a shell
-> anticipating her whose
-> shell is filled with trees
-> with trees in fall gray shades
+unless the one who asks us
 
+asks us because they are moving
 
-> thinking you know now
-> thinking you know does nothing
-> until thinking is move
-> to move for her in breast
-> to move for her in sigh
+-
+
+whole, whose end is not
+
+everything that is a shell
+
+anticipating her whose
+
+shell is filled with trees
+
+with trees in fall gray shades
+
+-
+
+thinking you know now
+
+thinking you know does nothing
+
+until thinking is move
+
+to move for her in breast
+
+to move for her in sigh
+
+-
 
 Exhibition at Autumn Space, Chicago, IL.
 
