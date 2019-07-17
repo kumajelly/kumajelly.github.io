@@ -6,7 +6,7 @@ author: "Sean Ward"
 meta:
 ---
 
-PDF-Objects at ![Mana Contemporary](http://pdf-objects.com/exhibitions/mana/), Chicago, IL.
+PDF-Objects at [Mana Contemporary](http://pdf-objects.com/exhibitions/mana/), Chicago, IL.
 
 ![](/images/[pdf-objects.com][26]space14-copy-1-720x4802x.jpg)
 ![](/images/[pdf-objects.com][35]spector-buzz-a-720x4802x.jpg)
