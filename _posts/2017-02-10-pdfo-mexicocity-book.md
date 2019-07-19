@@ -8,4 +8,4 @@ meta:
 
 Guidebook for PDF-Objects at [El Espectro](http://pdf-objects.com/exhibitions/mexico-city/), Mexico City, Mexico.
 
-[![ PDF-Objects, Mexico City Guidebook ](/images/pdfo mexcity v2.jpg)](/documents/pdfo mexcity v2.pdf) PDF-Objects, Mexico City Guidebook
+[![ PDF-Objects, Mexico City Guidebook ](/images/pdfo mexcity v2.jpg)](/documents/pdfo mexcity v2-compressed.pdf) PDF-Objects, Mexico City Guidebook
