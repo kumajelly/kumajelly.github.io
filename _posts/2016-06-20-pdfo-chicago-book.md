@@ -8,7 +8,7 @@ meta:
 
 Guidebook for PDF-Objects at [Mana Contemporary](http://pdf-objects.com/exhibitions/mana/), Chicago, IL.
 
-[![PDF-Objects, Chicago Guidebook - Version 1](/images/16-pdfchi-1.jpg)](/documents/_PDF-OBJECTS-guidebook.compressed.pdf) PDF-Objects, Chicago Guidebook - Version 1
+[![PDF-Objects, Chicago Guidebook - Version 1](/images/16-pdfchi-1.jpg)](/documents/_PDF-OBJECTS-guidebook-compressed.pdf) PDF-Objects, Chicago Guidebook - Version 1
 
 Version 2
 ![](/images/[pdf-objects.com][329]01pdfobjectscoverrender20160919-720x466.jpg)
