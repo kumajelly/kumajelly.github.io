@@ -1,0 +1,44 @@
+---
+title: "Dear Lake"
+date: "2010-10-15"
+categories: art
+author: "Sean Ward"
+meta:
+---
+
+“Dear Lake,
+I’ve wrote you a letter, so be still and quiet for this moment-
+I fear your aqua desire
+the still surface, in weight
+you lap like the ocean
+but together you are 
+nothing
+your small breasts rise
+or do you pit
+I fear you when
+green leaves grow 
+from the brewed blue
+it shows me your depths
+shallow at first
+then impossibly deep
+diving, you crack necks
+at the root we
+drown
+I desire fear
+for you to lure 
+haunted ships, broken bottles
+luring pinkish flickering
+nipples in heat
+hiding your nakedness in
+sheets
+I want to drink you
+
+Sincerely, 
+Sean
+
+PS I made this for you”
+
+
+[Dear Lake - Video](https://youtu.be/gEqvG7xbRQU)
+![](/images/10-dearlake-2.jpg)
+![](/images/10-dearlake-3.jpg)
