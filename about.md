@@ -1,10 +1,10 @@
 ---
 layout: page
-title: A minimal blogging theme
+title: Thoughtful, deliberate, and precise
 ---
 
-<p class="lead">I'm Bradley Taunt, a designer/developer hybrid, and this is my personal jekyll theme used on <a href="https://bradleytaunt.com">bradleytaunt.com</a>.</p>
+<p class="lead">I’m Sean Ward, an experience designer focused on how to engage users to acquire, and use for the long term.</a>.</p>
 
-I work as the Senior Product Designer at Benbria in Ottawa. My passion lies in building reusable and maintainable CSS, with a focus on accessibility and web performance. Articles written on this site are a reflection of that passion.
+I work as an Instructional Designer at Silverline CRM in New York City. Being a highly visual and experiential learner myself, having felt the pains of numerous bad learning contexts, I am passionate about developing utilizing universal design for learning, accessibility, and plain inclusive language.
 
-Have questions or suggestions? Feel free to hit me up on [Twitter](https://twitter.com/bradtaunt). Interested in some of my open source projects? Check out my [repos](https://github.com/bradleytaunt).
+[Feel free to reach out.](mailto:seanthomasward@gmail.com)
