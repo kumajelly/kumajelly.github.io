@@ -7,7 +7,7 @@ title: Thoughtful, deliberate, and precise
 
 I work as an Instructional Designer at Silverline CRM in New York City. Being a highly visual and experiential learner myself, having felt the pains of numerous bad learning contexts, I am passionate about universal design for learning, accessibility, and plain inclusive language.
 
-My predictive index profil: [Craftsman](https://www.predictiveindex.com/reference-profile/craftsman/)
+My predictive index profile: [Craftsman](https://www.predictiveindex.com/reference-profile/craftsman/)
 
 [Feel free to reach out.](mailto:seanthomasward@gmail.com)
 
