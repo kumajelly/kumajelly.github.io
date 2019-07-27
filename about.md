@@ -1,18 +1,16 @@
 ---
 layout: page
-title: Thoughtful, deliberate, and precise
+title: Curiosity-driven designer, educator, artist
 ---
 
-<p class="lead">I’m Sean Ward, an experience designer focused on how to engage users to learn, acquire, and use for the long term.</p>
+<p class="lead">I’m Sean Ward, an experience designer focused on how to engage users to learn, acquire, and enjoy experiences for the long term.</p>
 
 I work as an Instructional Designer at Silverline CRM in New York City. Being a highly visual and experiential learner myself, having felt the pains of numerous bad learning contexts, I am passionate about universal design for learning, accessibility, and plain inclusive language.
 
-My predictive index profile: [Craftsman](https://www.predictiveindex.com/reference-profile/craftsman/)
-
-[Feel free to reach out.](mailto:seanthomasward@gmail.com)
+My predictive index reference profile: [Craftsman](https://www.predictiveindex.com/reference-profile/craftsman/)
 
 ## What I’m doing now
 As an Instructional Designer, I...
 - Design and develop learning paths based on learning gaps and needs of learners.
 - Maintain and implement learning softwares and systems. 
-- Strategize internal and external (learning) content development that furthers a voice and tone.
+- Strategize internal and external (learning) content development.
