@@ -9,6 +9,8 @@ I work as an Instructional Designer at Silverline CRM in New York City. Being a 
 
 My predictive index reference profile: [Craftsman](https://www.predictiveindex.com/reference-profile/craftsman/)
 
+[Feel free to reach out.](Mailto:seanthomasward@gmail.com)
+
 ## What I’m doing now
 As an Instructional Designer, I...
 - Design and develop learning paths based on learning gaps and needs of learners.
