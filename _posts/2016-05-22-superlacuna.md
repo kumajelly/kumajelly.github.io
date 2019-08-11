@@ -7,7 +7,7 @@ meta:
 ---
 Press Release for ["Superlacuna" at Unisex Salon](https://www.unisexsalon.nyc/superlacuna).
 
-![](/images/Superalacuna2.png)
+![](/images/Superlacuna2.png)
 
 I grabbed the pan and oil to fry some eggs only to realize that they had already fried themselves and laid down on a piece of toast.
 
