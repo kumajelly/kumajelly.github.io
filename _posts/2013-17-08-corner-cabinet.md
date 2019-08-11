@@ -1,6 +1,6 @@
 ---
 title: "Corner Cabinet Volume 1"
-date: "2013-17-08"
+date: "2013-08-17"
 categories: book
 author: "Sean Ward"
 meta:
