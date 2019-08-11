@@ -21,7 +21,7 @@ by Sean Ward
 
 He’s out there before anyone. Wearing his international orange safety vest, white hardhat, blue jeans and tan boots, his paint sprayer strapped to his back - guided by cardinal directions, he delivers a path through the forest. 
 
-My father sent me this email, subject [Photo from End of an Era]() remarking Backyard tree bites the dust. Became a danger to the house. I have kept coming back to this photo. The tree contains no memory for me except for the background  of my childhood, beautiful leaves in the fall. The tree stood there, a marker of time, dangerous to our understanding.
+My father sent me this email, subject *Photo from End of an Era* remarking Backyard tree bites the dust. Became a danger to the house. I have kept coming back to this photo. The tree contains no memory for me except for the background  of my childhood, beautiful leaves in the fall. The tree stood there, a marker of time, dangerous to our understanding.
 
 He’s working on his forest inventory. The crowding is determined - species are named - ages are stacked - the undergrowth and wildlife are recorded as present. A series of markings indicate this site as needing thinning.
 
