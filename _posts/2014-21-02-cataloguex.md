@@ -1,6 +1,6 @@
 ---
 title: "Cataloguex"
-date: "2014-21-02"
+date: "2014-02-21"
 categories: book
 author: "Sean Ward"
 meta:
