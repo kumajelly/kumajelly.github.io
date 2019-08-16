@@ -60,11 +60,11 @@ As an Instructional Designer, I...
 
 
 ### CERTIFICATIONS
-- Certified Specialist, Adobe Captivate | 2019
+- Certified Specialist, Adobe Captivate / 2019
 
 
 ### EDUCATION
-- UX Design Immersive, General Assembly | 2018
-- Build Websites from Scratch, Codecademy | 2017
-- MFA Multimedia & Fine Arts, The School of the Art Institute of Chicago | 2011
-- BFA Painting, Magna Cum Laude, Syracuse University | 2007
+- UX Design Immersive, General Assembly / 2018
+- Build Websites from Scratch, Codecademy / 2017
+- MFA Multimedia & Fine Arts, The School of the Art Institute of Chicago / 2011
+- BFA Painting, Magna Cum Laude, Syracuse University / 2007
