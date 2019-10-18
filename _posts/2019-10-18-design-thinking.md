@@ -1,12 +1,14 @@
 ---
-title: “Design Thinking Workshop Skeleton”
-date: "2019-10-18”
+title: "Design Thinking Workshop Skeleton"
+date: "2019-10-18"
 categories: lxd 
 author: "Sean Ward"
 meta:
 ---
 
-*Inspired by my workshop experience, Design Thinking for Entrepreneurs, at Grow with Google NYC - I decided to adapt it for uses at Silverline and beyond. Currently used as part of new hire orientation as an in-person workshop to help introduce design thinking concepts and as a team building experience.* 
+*Inspired by my workshop experience, Design Thinking for Entrepreneurs, at Grow with Google NYC - I decided to adapt it for uses at Silverline and beyond. Currently used as part of new hire orientation as an in-person workshop to help introduce design thinking concepts and as a team building experience.*
+
+*Below the workshop skeleton you'll find the first version from a pilot. One piece of feedback from the pilot: "More time, fewer participants, better clarity of language. Much of my confusion came from the total freedom allowed within the workshop, providing some guideposts or suggestions would have set me on a clearer path."* 
 
 # Design Thinking Workshop
 ## Definition & SL Context
@@ -90,3 +92,6 @@ meta:
 - What insights were gained? Write 3 things for your next iteration as next steps
 	- What might you do better?
 	- What might you change?
+
+# Design Thinking Workshop Pilot
+![](design-thinking-v1.gif)
