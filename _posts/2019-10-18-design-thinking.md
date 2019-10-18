@@ -94,4 +94,4 @@ meta:
 	- What might you change?
 
 # Design Thinking Workshop Pilot
-![](design-thinking-v1.gif)
+![](/images/design-thinking-v1.gif)
