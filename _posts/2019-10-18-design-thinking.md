@@ -52,7 +52,7 @@ meta:
 - As a….I should….so that I
 - As a...I want to...so that I 
 
-- Mind Map Activity
+**Mind Map Activity**
 - Mind Map Instructions:
 	1. On a large blank piece of paper, write your central topic or challenge in the middle of the paper and circle it.
 	2. Ask your team, “What else can we add to the map that is related to this theme?” Write down ideas, branching out from the center, and don’t worry if they feel clichéd or obvious. That happens to everyone. Try to uncover **obstacles**, **needs**, and **goals** of your user.
