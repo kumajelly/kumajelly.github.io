@@ -11,7 +11,7 @@ I work as an Instructional Designer at Silverline CRM in New York City. Being a 
 
 My predictive index reference profile: [Craftsman](https://www.predictiveindex.com/reference-profile/craftsman/)
 
-[Feel free to reach out.](Mailto:seanthomasward@gmail.com)
+[Feel free to reach out.](https://www.linkedin.com/in/sean-ward/)
 
 ## What I’m doing now
 As an Instructional Designer, I...
