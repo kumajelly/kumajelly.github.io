@@ -36,6 +36,3 @@ SME Request -> Content Audit / Outline -> Content Creation Collaboration -> Cont
 ## Published Result Example
 
 ![](/images/learning-objectives-example.png)
-
-
-
