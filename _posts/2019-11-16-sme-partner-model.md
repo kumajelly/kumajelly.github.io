@@ -32,7 +32,6 @@ SME Completes Operations Request -> Learning Content Creation Workflow
 *Once SME and L&D agree upon strategy, building begins following the learning content creation flow.*
 
 ![](/images/lcc-1-ops-request.jpg)
-![](/images/lcc-2-ops-request.jpg)
-![](/images/lcc-3-ops-request.jpg)
-![](/images/lcc-4-ops-request.jpg)
-
+![](/images/lcc-2-content-build.jpg)
+![](/images/lcc-3-publishing.jpg)
+![](/images/lcc-4-maintenance.jpg)
