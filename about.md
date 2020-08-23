@@ -2,9 +2,6 @@
 layout: page
 title: Innovative, creative thinker in the field of education. 
 ---
-
-![Sean Ward](/images/headshot-apple-moji.png)
-
 <p class="lead">I’m Sean Ward, a learning experience designer.</p>
 
 I currently work as a Learning Experience Designer @Uber.
