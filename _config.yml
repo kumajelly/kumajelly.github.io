@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               'Sean Ward'
 url:                 https://snwrd.com
-tagline:             Projects and thoughts here.
+tagline:             A learning designer. Projects and thoughts here.
 paginate:            1000
 paginate_path:       "/page:num/"
 baseurl:             ""
