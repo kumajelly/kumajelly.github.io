@@ -1,21 +1,16 @@
 ---
 layout: page
-title: Curiosity-driven designer, educator, artist
+title: Innovative, creative thinker in the field of education. 
 ---
 
-![Sean Ward](/images/headshot-sean.jpg)
+![Sean Ward](/images/headshot-apple-moji.png)
 
-<p class="lead">I’m Sean Ward, an experience designer.</p>
+<p class="lead">I’m Sean Ward, a learning experience designer.</p>
 
-I currently work as an Learning Experience Designer @Uber. Being a highly visual and experiential learner myself, I am passionate about delivering fun, direct, and effective learning. Passionate about accessibility and plain inclusive language.
+I currently work as a Learning Experience Designer @Uber.
 
-My predictive index reference profile: [Craftsman](https://www.predictiveindex.com/reference-profile/craftsman/)
+As a self-directed learner, I seek to introduce non-traditional methods of education. I advocate for collaborative work over fast-paced and helping others. I work to make others feel value through an empathetic, understanding and fair leadership style.
+
+[Want to learn more?](https://docs.google.com/document/d/e/2PACX-1vQKFQwNed0iE96Q9NHN7_cwdKR7J81xhMpBhfqcDbOXD34VSI1SuNYVx-tHRJybLlh_UMyUeahlk_pv/pub)
 
 [Feel free to reach out.](https://www.linkedin.com/in/sean-ward/)
-
-## What I’m doing now
-As a Learning Experience Designer, I...
-- Design and develop learning paths focused on solving learning gaps and needs of learners.
-- Maintain and implement learning softwares and systems. 
-- Strategize and develop content that grows industry and technical knowledge.
-
