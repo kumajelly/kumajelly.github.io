@@ -10,4 +10,4 @@ As a self-directed learner, I seek to introduce human-centered, non-traditional 
 
 [Want to learn more?](https://docs.google.com/document/d/e/2PACX-1vQKFQwNed0iE96Q9NHN7_cwdKR7J81xhMpBhfqcDbOXD34VSI1SuNYVx-tHRJybLlh_UMyUeahlk_pv/pub)
 
-[Feel free to reach out.](https://www.linkedin.com/in/sean-ward/)
+[Feel free to connect and reach out.](https://www.linkedin.com/in/sean-ward/)
