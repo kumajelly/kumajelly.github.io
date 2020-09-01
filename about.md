@@ -3,7 +3,7 @@ layout: page
 title: Innovative, creative thinker in the field of education.
 permalink: /about/
 ---
-![](website-bio.jpeg)
+![](website-bio.jpg)
 
 <p class="lead">I’m Sean Ward, a learning experience designer.</p>
 
