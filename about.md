@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Innovative, creative thinker in the field of education. 
+title: Innovative, creative thinker in the field of education.
+permalink: /about/
 ---
 ![](website-bio.jpeg)
 
