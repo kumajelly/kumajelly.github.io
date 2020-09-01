@@ -2,6 +2,8 @@
 layout: page
 title: Innovative, creative thinker in the field of education. 
 ---
+![](website-bio.jpeg)
+
 <p class="lead">I’m Sean Ward, a learning experience designer.</p>
 
 I currently work at @Uber.
