@@ -19,7 +19,5 @@ Consider them prompts. Interpret them in your own way. Make them your own. In th
 
 **Dialogue Exercises is available as a print-on-demand book and as a free PDF.**
 
-Buy Print
-Free Download
-
-![](/images/book-de-preview.jpg)
+- [Buy Print]()
+- [Free Download]()
