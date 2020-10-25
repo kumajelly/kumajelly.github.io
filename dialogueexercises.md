@@ -19,5 +19,5 @@ Consider them prompts. Interpret them in your own way. Make them your own. In th
 
 **Dialogue Exercises is available as a print-on-demand book and as a free PDF.**
 
-- [Buy Print]()
+- [Buy Print](https://www.lulu.com/en/us/shop/sean-ward/dialogue-exercises/paperback/product-g9m5ke.html)
 - [Free Download](/documents/DialogueExercises-bySeanWard.pdf)
