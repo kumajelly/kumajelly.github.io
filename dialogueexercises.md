@@ -3,7 +3,7 @@ layout: page
 title: Dialogue Exercises
 permalink: /exercises/
 ---
-![](/images/Dialogue-Exercises - 12.jpeg)
+![](/images/Dialogue-Exercises-12.jpg)
 
 A scribbled note found tucked away in a book owned by my grandfather:
 
