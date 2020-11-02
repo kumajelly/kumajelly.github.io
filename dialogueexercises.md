@@ -3,6 +3,7 @@ layout: page
 title: Dialogue Exercises
 permalink: /exercises/
 ---
+![](/images/Dialogue-Exercises - 12.jpeg)
 A scribbled note found tucked away in a book owned by my grandfather:
 
 *“What does the artist do? The artist watches the outer life. He discovers the inner life. He liberates the human life. He manifests the divine life. He fulfills the supreme life.”* 
