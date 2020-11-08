@@ -5,6 +5,8 @@ categories: lxd
 author: "Sean Ward"
 meta:
 ---
+![](/images/Dialogue-Exercises-12.jpg)
+
 I wanted to share I will participating in [MPSTN season VII](https://www.mpstn.com/season-vii) with a book release. Below you can learn more about Dialogue Exercises and to get get it - inspired by the many individuals I've crossed paths with throughout my journeys.
 
 ## When:
