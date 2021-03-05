@@ -7,7 +7,7 @@ permalink: /about/
 
 <p class="lead">I’m Sean Ward, an experience designer.</p>
 
-I currently work at @Uber.
+I currently work at @Montage Learning. Formerly @Uber.
 
 As a self-directed individual, I seek to introduce human-centered, non-traditional methods of education. I advocate for collaborative work and helping others over move-fast-just-because. I work to make others feel valued through an empathetic, understanding and fair leadership style.
 
