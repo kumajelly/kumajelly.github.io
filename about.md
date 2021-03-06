@@ -13,4 +13,4 @@ As a self-directed individual, I seek to introduce human-centered, non-tradition
 
 [Want to learn more?](https://www.linkedin.com/in/sean-ward/)
 
-[Feel free to connect and reach out.](emailto:seanthomasward@gmail.com)
+[Feel free to connect and reach out.](mailto:seanthomasward@gmail.com)
