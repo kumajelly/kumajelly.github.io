@@ -37,3 +37,8 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-archives
+ 
+ analytics:
+  provider: "google-universal"
+  google:
+ 	tracking_id: "G-ZW4DC5CJGR"
