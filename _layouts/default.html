@@ -2,7 +2,6 @@
 <html lang="en">
 
   {% include head.html %}
-  {% include google_analytics.html %}
 
   <body>
 
@@ -23,5 +22,15 @@
     {% include footer.html %}
 
     <script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZW4DC5CJGR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZW4DC5CJGR');
+</script>
+    
   </body>
 </html>
