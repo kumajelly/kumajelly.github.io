@@ -5,7 +5,7 @@ permalink:           pretty
 title:               'Sean Ward'
 url:                 https://snwrd.com
 tagline:             An experience designer. Projects and thoughts here.
-paginate:            10
+paginate:            1000
 paginate_path:       "/page:num/"
 baseurl:             ""
 
