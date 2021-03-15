@@ -6,7 +6,7 @@ author: "Sean Ward"
 meta:
 ---
 
-*Written for the [10th anniversary](http://www.juliuscaesarchicago.net/anniversaryshow) of Julius Caesar Gallery, Chicago where I once was co-director.*
+*Written for the [10th anniversary](https://www.juliuscaesarchicago.net/tenyearshow) of Julius Caesar Gallery, Chicago where I once was co-director.*
 
 Assembly worker John’s car echoed Nate’s defeat. The hollow grind of tire over gravel spoke of the failed campaign.
 
