@@ -38,5 +38,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
  
-# Google Analytics
-google_analytics: UA-192122584-1
