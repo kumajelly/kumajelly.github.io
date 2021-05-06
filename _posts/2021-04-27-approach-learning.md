@@ -10,7 +10,6 @@ A little write up for Montage Learning.
 
 [Blog post here](https://www.montagelearning.com/blog-source/our-approach-to-learning)
 
-# Our Approach to Learning
 Montage Learning designs and develops targeted, high-impact, and easy to maintain learning experiences and content. This allows us to get your L&D capabilities up and running quickly while requiring a minimal amount of maintenance. Structuring a strategy based on learner-needs ensures that the experience is learner-centered, useful and relevant. We want learners to discover what they need when they need it and apply it—not only focused on how good it looks. In order to maintain this focus, we devised a few guiding principles:
 
 **Self-discovery and expression**
