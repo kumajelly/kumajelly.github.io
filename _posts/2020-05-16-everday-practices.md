@@ -1,7 +1,7 @@
 ---
 title: "The Compound Yellow Manual of Prompts, Provocations, Permissions, and Parameters for Everyday Practices"
 date: "2020-05-16"
-categories: design
+categories: lxd
 author: "Sean Ward"
 meta:
 ---
