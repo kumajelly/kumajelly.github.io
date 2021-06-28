@@ -10,6 +10,8 @@ Back in December 2020 I took the course Short Sims with Clark Aldrich. This shor
 
 Check out the Short Sim I built during the class - [Safety Incidents: Something happened. Now what? at Uber](/projects/short-sim-safety/index.html)
 
+![](/images/short-sim-safety-incidents.png)
+
 Highly recommend Clark's class to begin the critiquing of how you're currently serving learners. A few takeaways that have lingered with me and to come back to:
 
 - Learn by doing, make mistakes; how can this be applied in the real world?; what does failure look like?
