@@ -8,7 +8,7 @@ meta:
 
 Back in December 2020 I took the course Short Sims with Clark Aldrich. This short class helped shift my perspective on how to develop learning experiences that create memorable, actionable takeaways for learners.
 
-Check out the Short Sim I built during the class - [Safety Incidents: Something happened. Now what? at Uber](/projects/short-sim-safety/index.html)
+Experience the Short Sim I built during the class - [Safety Incidents: Something happened. Now what?](/projects/short-sim-safety/index.html) for Uber.
 
 ![](/images/short-sim-safety-incidents.png)
 
