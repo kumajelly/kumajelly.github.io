@@ -24,10 +24,11 @@ There were a number of requirements and limitations:
 - Easily previewed and prototyped
 - Easy maintenance by anyone
 - Reduced time from onboarding to proficiency for support agents
+- Maintaining a familiar and consistent user interface for learners, instructors, and designers
 
 High level process:
 1. Research; interviewed and surveyed Learning Specialists who deliver onboarding, learners (new support agents), Instructional Designers
-2. Tooling and Prototype; chose a ubiquitous toolset across the learning teams around the globe, **built a prototype in Google Slides, demoed how it works, and the future potential it has when importing it into elearning authoring software (Storyline) - a solution easy for junior designers to learn and a way to get their hands on a complex authoring tool**
+2. Tooling and Prototype; chose a ubiquitous toolset across the learning teams around the globe, developed a UI and process, **built a prototype in Google Slides, demoed how it works, and the future potential it has when importing it into elearning authoring software (Storyline) - a solution easy for junior designers to learn and a way to get their hands on a complex authoring tool**
 3. Test; performed a UAT and implemented a SUS survey, **LES 4.9/5; SUS score 95>68**
 4. Design and Development; redesigned and developed onboarding topics in the hybrid solution, **58 deliverables (29 modules, 29 activities and demonstrations)**
 5. Design Standards; built design standards for other learning teams to use across the global to build hybrid solutions
