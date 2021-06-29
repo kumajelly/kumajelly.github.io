@@ -34,11 +34,11 @@ High level process:
 6. Enablement; delivered multiple workshops for learning teams on how to use and build hybrid solutions
 
 ![](/images/onboarding-design-strategy.gif)
-Onboarding Design Strategy
+Onboarding Design Strategy Deck
  
 ![](/images/hybrid-solution-workshop.gif)
-Hybrid Solution Workshop
+Hybrid Solution Workshop Deck
 
-[Hybrid Solution Workshop](https://youtu.be/1Dviivcb1rE)
+[Hybrid Solution Workshop Video](https://youtu.be/1Dviivcb1rE)
 
-[Hybrid Solution Design Standards](/documents/hybrid-solution-standards.pdf)
+[Hybrid Solution Design Standards Documentation](/documents/hybrid-solution-standards.pdf)
