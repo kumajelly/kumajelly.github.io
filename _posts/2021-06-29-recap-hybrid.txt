@@ -1,0 +1,34 @@
+---
+title: "Quick Recap: Hybrid Product Design and Development"
+date: "2021-06-29"
+categories: lxd
+author: "Sean Ward"
+meta:
+---
+
+The constant challenge faced at Uber when creating learning experience was the vast audience of thousands of support agents across 4 mega-regions.
+
+I was tasked with redesigning and developing the onboarding program for these support agents as the Design Program Manager; in collaboration with a Program Manager, Operations Manager, and Implementation Specialist.
+
+So we designed "hybrid" in response to the business needs.
+
+Hybrid defined:
+- The hybrid model is a type of learning solution that allows for a single course to be delivered via instructor-led (VILT) or eLearning (self-paced) modalities. There is no need to build one instructor-led version and a separate eLearning version. The hybrid model combines familiar Android operating system elements, like your mobile phone or Chrome web browser, and UX design principles. This helps the implementation and easily identifiable features that are clickable like the navigation bar and back/forward buttons to promote interactivity.
+
+There were a number of requirements and limitations:
+- for a broad range of designer skillsets, Instructional Designers needed to understand how to design and develop a learning solution with the new type of solution
+- Tooling scalability, keeping the design tools simple and direct to help keep accessible for all designers
+- Global scalability, with multi-language requirements for translations
+- Turn around time, maintaining or decreasing the design and development time for a learning solution
+- Easy SME (Subject-matter-expert) input and collaboration
+- Easily previewed and prototyped
+- Easy maintenance by anyone
+- Reduced time from onboarding to proficiency for support agents
+
+High level process:
+1. Research; interviewed and surveyed Learning Specialists who deliver onboarding, learners (new support agents), Instructional Designers
+2. Tooling and Prototype; chose a ubitiquous tools across the learning teams around the globe, built a prototype in Google Slides, demoed how it works, and the future potential it has when importing it into elearning authoring software (Storyline)
+3. Test; performed a UAT and implemented a SUS survey, LES 4.9/5; SUS score 95>68
+4. Design and Development; redesigned and developed onboarding topics in the hybrid solution
+5. Design Standards; built design standards for other learning teams to use across the global to build hybrid solutions
+6. 
