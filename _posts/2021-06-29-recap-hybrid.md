@@ -15,6 +15,9 @@ So we designed "hybrid" in response to the business needs.
 Hybrid defined:
 - The hybrid model is a type of learning solution that allows for a single course to be delivered via instructor-led (VILT) or eLearning (self-paced) modalities. There is no need to build one instructor-led version and a separate eLearning version. The hybrid model combines familiar Android operating system elements, like your mobile phone or Chrome web browser, and UX design principles. This helps the implementation and easily identifiable features that are clickable like the navigation bar and back/forward buttons to promote interactivity.
 
+Sample hybrid solution deck
+![](<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzyOxvwDjuTmpHBfCTR5Fo32FYb0EJdH6FQ1fffJB7h-Z6vcl9oHqToOmu6jOr72jHfG5-ALSUA3lZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>)
+
 There were a number of requirements and limitations:
 - for a broad range of designer skillsets, Instructional Designers needed to understand how to design and develop a learning solution with the new type of solution
 - Tooling scalability, keeping the design tools simple and direct to help keep accessible for all designers
