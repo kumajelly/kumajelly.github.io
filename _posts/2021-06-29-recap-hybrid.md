@@ -12,13 +12,13 @@ I was tasked with redesigning and developing the onboarding program for these su
 
 So we designed "hybrid" in response to the business needs. A learning solution that is essentially a Google Slide deck that has clickable objects.
 
-Hybrid defined:
+## Hybrid defined:
 - The hybrid model is a type of learning solution that allows for a single course to be delivered via instructor-led (VILT) or eLearning (self-paced) modalities. There is no need to build one instructor-led version and a separate eLearning version. The hybrid model combines familiar Android operating system elements, like your mobile phone or Chrome web browser, and UX design principles. This helps the implementation and easily identifiable features that are clickable like the navigation bar and back/forward buttons to promote interactivity.
 
 Sample hybrid solution deck
 ![](https://docs.google.com/presentation/d/e/2PACX-1vRzyOxvwDjuTmpHBfCTR5Fo32FYb0EJdH6FQ1fffJB7h-Z6vcl9oHqToOmu6jOr72jHfG5-ALSUA3lZ/embed?start=false&loop=false&delayms=3000)
 
-There were a number of requirements and limitations:
+## There were a number of requirements and limitations:
 - for a broad range of designer skillsets, Instructional Designers needed to understand how to design and develop a learning solution with the new type of solution
 - Tooling scalability, keeping the design tools simple and direct to help keep accessible for all designers
 - Global scalability, with multi-language requirements for translations
@@ -29,7 +29,7 @@ There were a number of requirements and limitations:
 - Reduced time from onboarding to proficiency for support agents
 - Maintaining a familiar and consistent user interface for learners, instructors, and designers
 
-High level process:
+## High level process:
 1. Research; interviewed and surveyed Learning Specialists who deliver onboarding, learners (new support agents), Instructional Designers
 2. Tooling and Prototype; chose a ubiquitous toolset across the learning teams around the globe, developed a UI and process, **built a prototype in Google Slides, demoed how it works, and the future potential it has when importing it into elearning authoring software (Storyline) - a solution easy for junior designers to learn and a way to get their hands on a complex authoring tool**
 3. Test; performed a UAT and implemented a SUS survey, **LES 4.9/5; SUS score 95>68**
