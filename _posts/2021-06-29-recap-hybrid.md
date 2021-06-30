@@ -10,7 +10,7 @@ The constant challenge faced at Uber when creating learning experience was the v
 
 I was tasked with redesigning and developing the onboarding program for these support agents as the Design Program Manager; in collaboration with a Program Manager, Operations Manager, and Implementation Specialist.
 
-So we designed "hybrid" in response to the business needs.
+So we designed "hybrid" in response to the business needs. A learning solution that is essentially a Google Slide deck that has clickable objects.
 
 Hybrid defined:
 - The hybrid model is a type of learning solution that allows for a single course to be delivered via instructor-led (VILT) or eLearning (self-paced) modalities. There is no need to build one instructor-led version and a separate eLearning version. The hybrid model combines familiar Android operating system elements, like your mobile phone or Chrome web browser, and UX design principles. This helps the implementation and easily identifiable features that are clickable like the navigation bar and back/forward buttons to promote interactivity.
