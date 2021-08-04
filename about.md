@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Innovative, creative thinker in the field of education.
+title: Innovative, creative collaborator in the field of education, the arts and design.
 permalink: /about/
 ---
 ![](/images/2020-website-bio.jpg)
 
-<p class="lead">I’m Sean Ward, a learning experience designer.</p>
+<p class="lead">I’m Sean Ward, an experience designer and enablement architect.</p>
 
 I currently work at @Montage Learning. Formerly @Uber.
 
