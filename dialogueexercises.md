@@ -19,7 +19,7 @@ Each Dialogue Exercise solicits fun, a loss of control and increase in chance, a
 
 Consider them prompts. Interpret them in your own way. Make them your own. In the end they are yours and ours.
 
-**Dialogue Exercises is available as a printed book by request and as a free PDF.**
+**Dialogue Exercises is available as a printed book to purchase and as a free PDF to read or download.**
 
 - [Buy Print](https://www.lulu.com/en/us/shop/sean-ward/dialogue-exercises/paperback/product-g9m5ke.html?page=1&pageSize=4)
 - [Read Online](https://issuu.com/kumajelly/docs/book_seanward_v2-6x9-final-forprint)
