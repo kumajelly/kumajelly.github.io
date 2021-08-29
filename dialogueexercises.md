@@ -24,3 +24,5 @@ Consider them prompts. Interpret them in your own way. Make them your own. In th
 - [Buy Print](https://www.lulu.com/en/us/shop/sean-ward/dialogue-exercises/paperback/product-g9m5ke.html?page=1&pageSize=4)
 - [Read Online](https://issuu.com/kumajelly/docs/book_seanward_v2-6x9-final-forprint)
 - [Free Download](/documents/DialogueExercises-bySeanWard.pdf)
+
+[Included in SVA Library NYC](https://sva.edu/students/life-at-sva/campus-spaces/library)
