@@ -1,6 +1,6 @@
 ---
 title: "Short Sim: Japanese Grammar - Coffee or Shrine"
-date: "2022-4-26"
+date: "2022-04-26"
 categories: lxd
 author: "Sean Ward"
 meta:
