@@ -5,9 +5,9 @@ permalink: /sag/
 ---
 ![](/images/seansartgarage-substack-welcome-noback.png)
 
-Why Sean’s Art Garage?
+**Why Sean’s Art Garage?**
 
-なぜショーンのアートガレージなのか？
+**なぜショーンのアートガレージなのか？**
 
 On a recent trip to Japan, we visited friends who had young children. Their children ranged in age from a few months to 6 years old. It was fun to learn about how they were raising their kids. One was letting them watch YouTube only if it was educational and they were learning English. And even some of their story books were in English. During the visit, I had the opportunity to read them a story about finding shapes in everyday objects. While reading I had the thought it would be great to introduce simple art projects using this concept; learn some art, learn some language, and have fun.
 
