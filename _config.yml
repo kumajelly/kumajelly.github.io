@@ -23,8 +23,8 @@ sass:
 # About/contact
 author:
   name:              Sean Ward
-  url:               https://twitter.com/seantward
-  email:             seanthomasward@gmail.com
+  url:               https://snwrd.com
+  email:             sean@snwrd.com
 
 # Custom vars
 version:             1.0.0
