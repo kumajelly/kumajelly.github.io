@@ -35,5 +35,4 @@ Thank you for joining Sean’s Art Garage and for your support.
 ショーンのアートガレージにご参加いただき、ありがとうございます。
 
 - [Youtube](https://www.youtube.com/channel/UCzFh77P-PO-TjRAh24FD9_A)
-- [Substack](https://seansartgarage.substack.com)
 - [Instagram](https://www.instagram.com/seans.artgarage/)
