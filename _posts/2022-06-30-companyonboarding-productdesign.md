@@ -28,7 +28,7 @@ Montage builds out 3 components that are interwoven to create a great onboarding
 ## Client Perspective (Preparation & Decisions)
 *What decisions do you need to make during this process?*
 ### **Self-serve Content**
-- Who will be your SMEs (and reviewers) of content for these topics:
+1. Who will be your SMEs (and reviewers) of content for these topics:
 - Company History
 - Company Culture
 - Systems and Tools 
@@ -64,8 +64,10 @@ Depending on resource availability, Onboarding development time should run betwe
 
 ## Return On Investment (ROI) Notes
 ### **Salesforce Implementation Partner (SIP) Healthcare and Financial Experts**
+
 *Before*
 - 1 week in-person onboarding experience (up to 7 hours each day) with multiple Subject-Matter Experts involved
+
 *After*
 - Eliminated need for 1 week of onboarding to automated emails and Slack messages, self-paced eLearning, and a monthly orientation
 - Maintained a Learning Experience Survey (LES, Learner Satisfaction) 4.8/5
@@ -74,12 +76,14 @@ Depending on resource availability, Onboarding development time should run betwe
 
 ### **Salesforce Implementation Partner (SIP) Construction and Manufacturing Leader**
 - Cost of Montage Onboarding: $23,900
+
 *Before (People Ops Manager Perspective)*
 - 1st Day, 3 hrs spent with each new hire, on average 3 new hires per month
 - 1st month, on average 1hr per day spent working on new hire tasks (pulled in and off other tasks) = 29 hrs with new hires per month
 - monthly total onboarding cost for People Ops Manager (POM): $1,160
 - yearly total: onboarding cost for POM: $13,920
 - estimated average salary for POM in US: 85K, $40 hourly
+
 *After (People Ops Manager Perspective)*
 - Montage onboarding eliminated 1st day time with self-paced and automated emails
 - New Hire Slack channel eliminated 29 hrs with cohort support or easy to connect chats
