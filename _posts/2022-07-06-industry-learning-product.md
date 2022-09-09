@@ -1,5 +1,5 @@
 ---
-title: "Industry Learning Product: A Core Capability"
+title: "Industry Learning Product: Product Design & Strategy"
 date: "2022-07-06"
 categories: lxd 
 author: "Sean Ward"
