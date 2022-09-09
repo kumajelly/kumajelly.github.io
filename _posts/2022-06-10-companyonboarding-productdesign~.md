@@ -1,6 +1,6 @@
 ---
 title: "Company Onboarding: Product Design & Strategy"
-date: "2022-06-10"
+date: "2022-06-30"
 categories: lxd 
 author: "Sean Ward"
 meta:

@@ -6,7 +6,7 @@ author: "Sean Ward"
 meta:
 --- 
 
-How would you define onboarding? Many of you would say that it is a process where new hires are integrated into the company, given the essentials to get started, and attend an orientation. “As well as learn about the organization and its structure, culture, vision, mission and values” as defined by the [The Society of Human Resource Management SHRM](https://www.shrm.org/resourcesandtools/tools-and-samples/toolkits/pages/understanding-employee-onboarding). 
+How would you define onboarding? Many of you would say that it is a process where new hires are integrated into the company, given the essentials to get started, and attend an orientation. “As well as learn about the organization and its structure, culture, vision, mission and values” as defined by the [The Society of Human Resource Management SHRM](https://www.shrm.org/resourcesandtools/tools-and-samples/toolkits/pages/understanding-employee-onboarding.aspx#:~:text=Overview,,%20vision,%20mission%20and%20values). 
 
 Our onboarding definition is essentially correct but it leaves out an important component - this isn’t a one-time experience that happens during their first week only. Consider this, 31 percent of people leave a job within the first six months, with 68 percent of those departing within three months ([2018 Source](https://www.bamboohr.com/blog/onboarding-infographic/)) and in today’s climate this can fluctuate even more.
 
