@@ -34,7 +34,7 @@ Alongside this staged plan, we created documentation to standardize the process 
 - [US&C Use Case Example VIdeo](https://youtu.be/xxDv0Z4fIX4)
 
 ## Design Standards Documentation
-- [Workflow Playbook: Design Learning in the Flow of Work Solutions](/documents/workflow-playbook.pdf)
+- [Workflow Playbook: Design Learning in the Flow of Work Solutions](/documents/workflow-playbook-walkme.pdf)
 
 ## From Out-of-the-Box Solution to Internal Engineering
 Our project caught the attention of our internal engineering team and we discussed how we could build our own solution instead of licensing software from a company. So they jumped on the chance and begin building it. We collaborated on a PRD and design of it.
