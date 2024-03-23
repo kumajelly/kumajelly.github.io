@@ -15,7 +15,7 @@ I enjoy the absurd and strangeness, therein lies truth. Truth? Factness? A matte
 
 This theatre is born out of living, being human, and enjoying another person. Drawing inspiration from Noh, furniture music, and Kids in the Hall it seeks to narrate the stories of everyday life. A decade was spent stepping back to reorient, refocus and master how to forget the noise.
 
-The stories are shared life moments, the quiet ones with my wife, collected as mementos. They are written simply.
+The stories are shared life moments, the quiet ones with my wife, collected as mementos. Souvenirs from this life. They are written simply.
 
 Ideally, these are meant to be performed by actors, but I’m on a budget. So you get them acted and sung by me on video. Terrible. I’m sorry.
 
