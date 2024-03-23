@@ -6,6 +6,7 @@ permalink: /livingroomtheatre/
 ![](/images/lrt-cover.jpg)
 
 **About Living Room Theatre**
+
 “Turning the everyday into art” is an exhausted phrase, I thought maybe we could flip it with a little arrogance - “Turn art into the everyday”. How do you make art into a toothbrush, a bowl, a piece of furniture? Something useful again. 
 
 So I set out to make “Living Room Theatre”. Now this has been a long journey and it is not even complete or perfect now, just simply a stake in the ground saying here is something, take a look. 
@@ -30,7 +31,8 @@ The requirements if performed live:
 
 Go try it for yourself with others.
 
-**Scenes**
+**Video Scenes**
+
 - ["Living Room Theatre" Playlist](https://www.youtube.com/playlist?list=PLHkCV_ucWbFnjLGB9szNoDd1Suz4VIs8P)
 
 Scenes included:
@@ -41,6 +43,7 @@ Scenes included:
 - Love Island
 
 **Masks**
+
 ![](/images/lrt-p1-mask.gif)
 ![](/images/lrt-p2-mask.gif)
 ![](/images/lrt-p3-mask.gif)
