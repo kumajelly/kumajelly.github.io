@@ -39,5 +39,4 @@ Alongside this staged plan, we created documentation to standardize the process 
 ## From Out-of-the-Box Solution to Internal Engineering
 Our project caught the attention of our internal engineering team and we discussed how we could build our own solution instead of licensing software from a company. So they jumped on the chance and begin building it. We collaborated on a PRD and design of it.
 
-- [PRD Workflow](/documents/PRD-BlissAgentSandbox.pdf)
 - [uNavigate Demo Video](https://youtu.be/wZC-bzd9CoM)
