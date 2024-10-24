@@ -6,8 +6,12 @@ author: "Sean Ward"
 meta:
 ---
 
+**Top 100 DAP Professionals**
+
 This year I joined the ranks of the top 100 DAP professionals for WalkMe.
 ![](/images/WardDAP100.png)
+
+**PEX Network All Access**
 
 I also had the chance to speak about AI and Digital Adoption at the PEX Network All Access event for Digital Adoption.
 ![](/images/WardPEX.png)
