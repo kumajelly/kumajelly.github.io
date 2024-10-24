@@ -12,6 +12,7 @@ This year I joined the ranks of the top 100 DAP professionals for WalkMe.
 I also had the chance to speak about AI and Digital Adoption at the PEX Network All Access event for Digital Adoption.
 ![](/images/WardPEX.png)
 
+**Interview Highlights**
 Some highlights from my interview follows - I oscillated between being a Digital Adoption Specialist and a Learning Designer.
 
 > My first experience with digital adoption was at ArtsConnection, where I worked on a grant program that taught students to use iPads to capture their language learning through art-making. The challenge was instilling confidence in their teachers to adopt the same approach - encouraging them to record and observe progress in their student’s learning.
