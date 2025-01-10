@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dialogue Exercises
-permalink: /exercises/
+permalink: /dialogue-exercises/
 ---
 ![](/images/Dialogue-Exercises-12.jpg)
 

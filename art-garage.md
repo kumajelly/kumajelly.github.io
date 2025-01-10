@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sean's Art Garage
-permalink: /sag/
+permalink: /art-garage/
 ---
 ![](/images/seansartgarage-substack-welcome-noback.png)
 

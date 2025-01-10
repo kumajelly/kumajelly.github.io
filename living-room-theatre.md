@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Living Room Theatre
-permalink: /livingroomtheatre/
+permalink: /living-room-theatre/
 ---
 ![](/images/lrt-cover.jpg)
 
