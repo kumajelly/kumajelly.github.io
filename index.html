@@ -1,54 +1,68 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sean Ward</title>
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,400&display=swap" rel="stylesheet">
-</head>
-<body>
-    <header style="text-align: left;">
-        <h1>Sean's Pochade Box</h1>
-    </header>
+---
+layout: default
+title: Home
+description: The personal blog of Sean Ward.
+---
 
-    <!-- About Me Section -->
-    <section id="about" style="margin: 20px; text-align: left;">
-        <h2>About Me</h2>
-        <p>Hey there! I’m Sean Ward—part digital transformation guru, part artist, and all-around problem solver. By day, I specialize in making work life simpler, smarter, and smoother. Whether it’s helping teams adopt new tools, designing user-friendly workflows, or optimizing tech stacks, I bring a creative touch to the world of digital adoption and enablement.</p>
-        <p>But there’s more to me than meetings and metrics. As a former artist and art educator, I love bringing a spark of creativity to everything I do. When I’m not geeking out over new tech, you’ll probably find me exploring trails, running, or losing myself in a playlist of electronic beats.</p>
-        <p>
-            <a href="/resume.html">Resume</a> | 
-            <a href="/enablement-portfolio.html">Enablement Portfolio</a>
-        </p>
-    </section>
+<!-- Header Section -->
+<header style="text-align: left;">
+    <h1>Sean's Pochade Box</h1>
+</header>
 
-    <!-- Synthesized Image Section -->
-    <section id="synthesized-image" style="text-align: left; margin: 20px;">
-        <h2>Monthly Synthesized Image</h2>
-        <p>This image was automatically synthesized using OpenAI API from a collection of my travel photos.</p>
-        <img src="/images/synthesized_image.jpg" alt="Synthesized Image" style="max-width: 80%; height: auto;" />
-    </section>
+<!-- About Me Section -->
+<section id="about" style="margin: 20px; text-align: left;">
+    <h2>About Me</h2>
+    <p>Hey there! I’m Sean Ward—part digital transformation guru, part artist, and all-around problem solver. By day, I specialize in making work life simpler, smarter, and smoother. Whether it’s helping teams adopt new tools, designing user-friendly workflows, or optimizing tech stacks, I bring a creative touch to the world of digital adoption and enablement.</p>
+    <p>But there’s more to me than meetings and metrics. As a former artist and art educator, I love bringing a spark of creativity to everything I do. When I’m not geeking out over new tech, you’ll probably find me exploring trails, running, or losing myself in a playlist of electronic beats.</p>
+    <p>
+        <a href="/resume.html">Resume</a> | 
+        <a href="/enablement-portfolio.html">Enablement Portfolio</a>
+    </p>
+</section>
 
-    <!-- Happening Now Section -->
-    <section id="projects" style="margin: 20px; text-align: left;">
-        <h2>Happening Now</h2>
-        <ul style="list-style-type: none; padding: 0;">
-            <li>[nihongo-o-benkyou-shimasu](https://github.com/kumajelly/nihongo-o-benkyou-shimasu)</li>
-            <li>[Art Garage](art-garage.html)</li>
-            <li>[Living Room Theatre](living-room-theatre.html)</li>
-            <li>[Dialogue Exercises](dialogue-exercises.html)</li>
-        </ul>
-    </section>
+<!-- Synthesized Image Section -->
+<section id="synthesized-image" style="text-align: left; margin: 20px;">
+    <h2>Monthly Synthesized Image</h2>
+    <p>This image was automatically synthesized using OpenAI API from a collection of my travel photos.</p>
+    <img src="/images/synthesized_image.jpg" alt="Synthesized Image" style="max-width: 80%; height: auto;" />
+</section>
 
-    <!-- Archive Section -->
-    <section id="archive" style="text-align: left; margin: 20px;">
-        <h2>Archive</h2>
-        <p><a href="/archive.html">View Archived Posts</a></p>
-    </section>
+<!-- Happening Now Section -->
+<section id="projects" style="margin: 20px; text-align: left;">
+    <h2>Happening Now</h2>
+    <ul style="list-style-type: none; padding: 0;">
+        <li><a href="https://github.com/kumajelly/nihongo-o-benkyou-shimasu">Nihongo-o-Benkyou-Shimasu</a></li>
+        <li><a href="/art-garage.html">Art Garage</a></li>
+        <li><a href="/living-room-theatre.html">Living Room Theatre</a></li>
+        <li><a href="/dialogue-exercises.html">Dialogue Exercises</a></li>
+    </ul>
+</section>
 
-    <footer style="text-align: left; margin: 20px;">
-        <p>&copy; 2025 Sean Ward</p>
-    </footer>
-</body>
-</html>
+<!-- Archive Section -->
+<section id="archive" style="text-align: left; margin: 20px;">
+    <h2>Archive</h2>
+    <p><a href="/archive.html">View Archived Posts</a></p>
+</section>
+
+<!-- Posts Section -->
+<section id="blog-posts" style="margin: 20px; text-align: left;">
+    <h2>Recent Posts</h2>
+    <div class="posts">
+      {% for post in paginator.posts %}
+        <article class="post" role="article">
+          <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+          <p>{{ post.summary }}</p>
+          <span class="post-date">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B" }}</time>
+            <time class="date-day" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d" }},</time>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
+          </span>
+        </article>
+      {% endfor %}
+    </div>
+</section>
+
+<!-- Footer -->
+<footer style="text-align: left; margin: 20px;">
+    <p>&copy; 2025 Sean Ward</p>
+</footer>
