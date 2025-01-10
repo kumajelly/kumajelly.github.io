@@ -48,10 +48,10 @@ As an expert in digital transformation, I focus on aligning technology, workflow
 ---
 
 ## Appendix of Roles  
-- **Instructional Designer**, Silverline CRM | 2018 – 2019  
-- **UX Designer**, Freelance | 2018 – 2019  
-- **Program Manager & Curriculum Developer**, ArtsConnection | 2013 – 2018  
-- **Teaching Artist & Professor**, Contractor/Adjunct | 2009 – 2013  
+- **Instructional Designer**, Silverline CRM / 2018 – 2019  
+- **UX Designer**, Freelance / 2018 – 2019  
+- **Program Manager & Curriculum Developer**, ArtsConnection / 2013 – 2018  
+- **Teaching Artist & Professor**, Contractor/Adjunct / 2009 – 2013  
 
 ---
 
