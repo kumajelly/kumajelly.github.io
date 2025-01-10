@@ -3,7 +3,6 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-# Sean Ward
 **Contact Information**  
 516–650–9471 | [seanthomasward@gmail.com](mailto:seanthomasward@gmail.com) | [in/sean-ward](https://www.linkedin.com/in/sean-ward) | [snwrd.com](https://snwrd.com)
 

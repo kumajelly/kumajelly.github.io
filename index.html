@@ -32,9 +32,9 @@ description: The personal blog of Sean Ward.
     <h2>Happening Now</h2>
     <ul style="list-style-type: none; padding: 0;">
         <li><a href="https://github.com/kumajelly/nihongo-o-benkyou-shimasu">Nihongo-o-Benkyou-Shimasu</a></li>
-        <li><a href="/art-garage.html">Art Garage</a></li>
-        <li><a href="/living-room-theatre.html">Living Room Theatre</a></li>
-        <li><a href="/dialogue-exercises.html">Dialogue Exercises</a></li>
+        <li><a href="/art-garage/">Art Garage</a></li>
+        <li><a href="/living-room-theatre/">Living Room Theatre</a></li>
+        <li><a href="/dialogue-exercises/">Dialogue Exercises</a></li>
     </ul>
 </section>
 
@@ -42,24 +42,6 @@ description: The personal blog of Sean Ward.
 <section id="archive" style="text-align: left; margin: 20px;">
     <h2>Archive</h2>
     <p><a href="/archive.html">View Archived Posts</a></p>
-</section>
-
-<!-- Posts Section -->
-<section id="blog-posts" style="margin: 20px; text-align: left;">
-    <h2>Recent Posts</h2>
-    <div class="posts">
-      {% for post in paginator.posts %}
-        <article class="post" role="article">
-          <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-          <p>{{ post.summary }}</p>
-          <span class="post-date">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B" }}</time>
-            <time class="date-day" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d" }},</time>
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
-          </span>
-        </article>
-      {% endfor %}
-    </div>
 </section>
 
 <!-- Footer -->
