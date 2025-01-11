@@ -21,26 +21,26 @@ As an expert in digital transformation, I focus on aligning technology, workflow
 ## Professional Experience
 
 ### **Senior Digital Adoption & Enablement Consultant (Technology Transformation PMO)**  
-**LinkedIn | Remote | 2023 – Present**  
+**LinkedIn / Remote / 2023 – Present**  
 - Spearhead strategic digital transformation and operational initiatives that optimize the use of technology across global enablement teams, delivering $500K in annual savings and boosting sales productivity by 30%.  
 - Analyze and refine the enablement tech stack to ensure scalability and alignment with long-term business goals.  
 - Enhance AI tools such as Glean and Co-Pilot, reducing information retrieval times by 30%.  
 - Collaborate with cross-functional departments to design integrated, scalable solutions, reducing reliance on traditional training while maximizing ROI.  
 
 ### **Senior Learning Experience Designer**  
-**Amazon | Remote | 2022**  
+**Amazon / Remote / 2022**  
 - Designed and implemented scalable learning programs that improved employee performance and increased satisfaction rates by 25%.  
 - Leveraged Design Thinking principles to create tailored training solutions that addressed operational needs.  
 - Continuously evaluated program effectiveness through data analysis to ensure training strategies delivered measurable business outcomes.  
 
 ### **Lead Learning Architect & Consultant**  
-**Montage Learning | Remote | 2021 – 2022**  
+**Montage Learning / Remote / 2021 – 2022**  
 - Created customized learning systems for SMBs, achieving a 100% return on investment within 18 months.  
 - Developed scalable frameworks supported by detailed documentation for long-term sustainability.  
 - Utilized performance metrics and iterative improvement methods to adapt systems to evolving organizational goals.  
 
 ### **Learning Experience Design Program Manager**  
-**Uber | Remote | 2020 – 2021**  
+**Uber / Remote / 2020 – 2021**  
 - Reimagined the global onboarding program, achieving a 15% improvement in new hire productivity and satisfaction.  
 - Managed training portfolios for Uber Eats Sales and Support teams across four regions, using data-driven strategies to optimize learning outcomes.  
 - Mentored instructional designers to develop impactful, scalable programs for diverse learner needs.  
@@ -62,8 +62,8 @@ As an expert in digital transformation, I focus on aligning technology, workflow
 ---
 
 ## Key Skills  
-- **Strategic Expertise**: Digital Transformation | Change Management | Enablement Strategy | Cross-Functional Collaboration | Data-Driven Decision Making  
-- **Technical Proficiencies**: Dynamics 365 | Salesforce | Airtable | Glean | Co-Pilot | ChatGPT | WalkMe | Adobe Suite | Articulate 360 | HTML | API
+- **Strategic Expertise**: Digital Transformation / Change Management / Enablement Strategy / Cross-Functional Collaboration / Data-Driven Decision Making  
+- **Technical Proficiencies**: Dynamics 365 / Salesforce / Airtable / Glean / Co-Pilot / ChatGPT / WalkMe / Adobe Suite / Articulate 360 / HTML / API
 
 ---
 
