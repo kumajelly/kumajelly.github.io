@@ -1,0 +1,85 @@
+name: Monthly Image Synthesis
+
+on:
+  schedule:
+    - cron: "0 0 1 * *" # Runs on the first day of each month
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  generate-synthesized-image:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Checkout Repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Step 2: Set up Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.9"
+
+    # Step 3: Install dependencies
+    - name: Install dependencies
+      run: pip install openai requests
+
+    # Step 4: Run the synthesis script
+      # This step writes the Python script and executes it dynamically.
+    - name: Generate synthesized image
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: |
+        echo "
+        import os
+        import openai
+        import requests
+        from datetime import datetime
+
+        # Set OpenAI API Key
+        openai.api_key = os.getenv('OPENAI_API_KEY')
+
+        # Paths
+        SOURCE_DIR = 'images-synth/source'
+        OUTPUT_DIR = 'images-synth'
+
+        def synthesize_image_from_source():
+            # Collect image file names from the source folder
+            source_images = [f'{SOURCE_DIR}/{img}' for img in os.listdir(SOURCE_DIR) if img.endswith(('.png', '.jpg', '.jpeg'))]
+
+            # Create a prompt based on the image names
+            prompt = f'A creative synthesis of the following travel photos: {', '.join([os.path.basename(img) for img in source_images])}.'
+
+            # Call the OpenAI API for image synthesis
+            response = openai.Image.create(
+                prompt=prompt,
+                n=1,
+                size='1024x1024',
+                response_format='url',
+            )
+
+            # Download the generated image
+            image_url = response['data'][0]['url']
+            current_date = datetime.now().strftime('%Y-%m-%d')
+            output_path = f'{OUTPUT_DIR}/{current_date}.jpg'
+
+            # Save the image
+            response = requests.get(image_url)
+            with open(output_path, 'wb') as file:
+                file.write(response.content)
+
+            print(f'Synthesized image saved to {output_path}')
+
+        if __name__ == '__main__':
+            synthesize_image_from_source()
+        " > synthesize_image.py
+        python synthesize_image.py
+
+    # Step 5: Commit and push the new synthesized image
+    - name: Commit and push the new image
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add images-synth/*.jpg
+        git commit -m "Add synthesized image for $(date +'%Y-%m-%d')"
+        git push
