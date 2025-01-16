@@ -51,7 +51,8 @@ jobs:
                   "Create a single cohesive and imaginative image "
                   "that synthesizes the essence and features of the following travel photos: "
                   f"{', '.join([os.path.basename(img) for img in source_images])}. "
-                  "The result should be a seamless blend of landscapes, textures, and colors."
+                  "The result should be a seamless blend of landscapes, textures, and colors, "
+                  "without any words, text, or characters that resemble text."
               )
 
               # Call the OpenAI API for image generation
