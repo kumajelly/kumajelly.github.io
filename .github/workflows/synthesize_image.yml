@@ -25,11 +25,12 @@ jobs:
       run: pip install openai requests
 
     # Step 4: Run Python script
-      # The script is written inline within the GitHub Actions YAML file
+      # Use Python interpreter to execute the script
     - name: Generate synthesized image
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
+        python - <<EOF
         import os
         import openai
         import requests
@@ -72,6 +73,7 @@ jobs:
 
         if __name__ == "__main__":
             synthesize_image_from_source()
+        EOF
 
     # Step 5: Commit and push the new synthesized image
     - name: Commit and push the new image
