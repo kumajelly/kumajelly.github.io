@@ -1,57 +1,93 @@
-- name: Generate synthesized image
-  env:
-    OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-  run: |
-    python - <<EOF
-    import os
-    import requests
-    from datetime import datetime
+name: Monthly Image Synthesis
 
-    # Set OpenAI API Key and endpoint
-    api_key = os.getenv("OPENAI_API_KEY")
-    api_url = "https://api.openai.com/v1/images/generations"
+on:
+  schedule:
+    - cron: "0 0 1 * *" # Runs on the first day of each month
+  workflow_dispatch: # Allows manual triggering
 
-    # Paths
-    SOURCE_DIR = "images-synth/source"
-    OUTPUT_DIR = "images-synth"
+jobs:
+  generate-synthesized-image:
+    runs-on: ubuntu-latest
 
-    def synthesize_image_from_source():
-        # Collect image file names from the source folder
-        source_images = [f"{SOURCE_DIR}/{img}" for img in os.listdir(SOURCE_DIR) if img.endswith(('.png', '.jpg', '.jpeg'))]
+    steps:
+      # Step 1: Checkout Repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-        # Create a prompt that describes the synthesis of the images
-        prompt = (
-            "Create a single cohesive and imaginative image "
-            "that synthesizes the essence and features of the following travel photos: "
-            f"{', '.join([os.path.basename(img) for img in source_images])}. "
-            "The result should be a seamless blend of landscapes, textures, and colors."
-        )
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
 
-        # Call the OpenAI API for image generation
-        headers = {
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-        }
-        payload = {
-            "prompt": prompt,
-            "n": 1,
-            "size": "1024x1024"
-        }
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: pip install requests
 
-        response = requests.post(api_url, json=payload, headers=headers)
-        response.raise_for_status()
-        image_url = response.json()['data'][0]['url']
+      # Step 4: Generate synthesized image
+      - name: Generate synthesized image
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python - <<EOF
+          import os
+          import requests
+          from datetime import datetime
 
-        # Download the generated image
-        current_date = datetime.now().strftime("%Y-%m-%d")
-        output_path = f"{OUTPUT_DIR}/{current_date}.jpg"
-        img_response = requests.get(image_url)
-        os.makedirs(OUTPUT_DIR, exist_ok=True)
-        with open(output_path, "wb") as file:
-            file.write(img_response.content)
+          # Set OpenAI API Key and endpoint
+          api_key = os.getenv("OPENAI_API_KEY")
+          api_url = "https://api.openai.com/v1/images/generations"
 
-        print(f"Synthesized image saved to {output_path}")
+          # Paths
+          SOURCE_DIR = "images-synth/source"
+          OUTPUT_DIR = "images-synth"
 
-    if __name__ == "__main__":
-        synthesize_image_from_source()
-    EOF
+          def synthesize_image_from_source():
+              # Collect image file names from the source folder
+              source_images = [f"{SOURCE_DIR}/{img}" for img in os.listdir(SOURCE_DIR) if img.endswith(('.png', '.jpg', '.jpeg'))]
+
+              # Create a prompt that describes the synthesis of the images
+              prompt = (
+                  "Create a single cohesive and imaginative image "
+                  "that synthesizes the essence and features of the following travel photos: "
+                  f"{', '.join([os.path.basename(img) for img in source_images])}. "
+                  "The result should be a seamless blend of landscapes, textures, and colors."
+              )
+
+              # Call the OpenAI API for image generation
+              headers = {
+                  "Authorization": f"Bearer {api_key}",
+                  "Content-Type": "application/json",
+              }
+              payload = {
+                  "prompt": prompt,
+                  "n": 1,
+                  "size": "1024x1024"
+              }
+
+              response = requests.post(api_url, json=payload, headers=headers)
+              response.raise_for_status()
+              image_url = response.json()['data'][0]['url']
+
+              # Download the generated image
+              current_date = datetime.now().strftime("%Y-%m-%d")
+              output_path = f"{OUTPUT_DIR}/{current_date}.jpg"
+              img_response = requests.get(image_url)
+              os.makedirs(OUTPUT_DIR, exist_ok=True)
+              with open(output_path, "wb") as file:
+                  file.write(img_response.content)
+
+              print(f"Synthesized image saved to {output_path}")
+
+          if __name__ == "__main__":
+              synthesize_image_from_source()
+          EOF
+
+      # Step 5: Commit and push the new synthesized image
+      - name: Commit and push the new image
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add images-synth/*.jpg
+          git commit -m "Add synthesized image for $(date +'%Y-%m-%d')"
+          git push
