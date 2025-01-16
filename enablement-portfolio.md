@@ -8,6 +8,7 @@ permalink: /enablement-portfolio/
 **Enablement Portfolio**
 As a digital adoption specialist and technologist, I’m dedicated to empowering people and organizations by designing innovative solutions—helping them learn, adapt, and scale. My portfolio highlights successes in enhancing onboarding, streamlining workflows, analyzing tech stacks, and leveraging AI to transform knowledge management, all with measurable outcomes.
 ---
+
 - [**EAR Framework for Technology Evaluation**](#ear-framework-for-technology-evaluation)
 - [**GAI and Knowledge Management Integration**](#gai-and-knowledge-management-integration)
 - [**Interactive Sandbox for Onboarding**](#interactive-sandbox-for-onboarding)
@@ -17,6 +18,7 @@ As a digital adoption specialist and technologist, I’m dedicated to empowering
 - [**Global Design Standards**](#global-design-standards)
 - [**LMS Migration to LXP**](#lms-migration-to-lxp)
 - [**New Hire Onboarding Revamp**](#new-hire-onboarding-revamp)
+
 ---
 
 ## **EAR Framework for Technology Evaluation**
