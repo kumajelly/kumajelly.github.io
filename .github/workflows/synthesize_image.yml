@@ -24,56 +24,54 @@ jobs:
     - name: Install dependencies
       run: pip install openai requests
 
-    # Step 4: Run the synthesis script
-      # This step writes the Python script and executes it dynamically.
+    # Step 4: Run Python script
+      # The script is written inline within the GitHub Actions YAML file
     - name: Generate synthesized image
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
-        echo "
         import os
         import openai
         import requests
         from datetime import datetime
 
         # Set OpenAI API Key
-        openai.api_key = os.getenv('OPENAI_API_KEY')
+        openai.api_key = os.getenv("OPENAI_API_KEY")
 
         # Paths
-        SOURCE_DIR = 'images-synth/source'
-        OUTPUT_DIR = 'images-synth'
+        SOURCE_DIR = "images-synth/source"
+        OUTPUT_DIR = "images-synth"
 
         def synthesize_image_from_source():
             # Collect image file names from the source folder
-            source_images = [f'{SOURCE_DIR}/{img}' for img in os.listdir(SOURCE_DIR) if img.endswith(('.png', '.jpg', '.jpeg'))]
+            source_images = [f"{SOURCE_DIR}/{img}" for img in os.listdir(SOURCE_DIR) if img.endswith(('.png', '.jpg', '.jpeg'))]
 
             # Create a prompt based on the image names
-            prompt = f'A creative synthesis of the following travel photos: {', '.join([os.path.basename(img) for img in source_images])}.'
+            prompt = f"A creative synthesis of the following travel photos: {', '.join([os.path.basename(img) for img in source_images])}."
 
             # Call the OpenAI API for image synthesis
             response = openai.Image.create(
                 prompt=prompt,
                 n=1,
-                size='1024x1024',
-                response_format='url',
+                size="1024x1024",
+                response_format="url",
             )
 
             # Download the generated image
             image_url = response['data'][0]['url']
-            current_date = datetime.now().strftime('%Y-%m-%d')
-            output_path = f'{OUTPUT_DIR}/{current_date}.jpg'
+            current_date = datetime.now().strftime("%Y-%m-%d")
+            output_path = f"{OUTPUT_DIR}/{current_date}.jpg"
 
             # Save the image
             response = requests.get(image_url)
-            with open(output_path, 'wb') as file:
+            os.makedirs(OUTPUT_DIR, exist_ok=True)
+            with open(output_path, "wb") as file:
                 file.write(response.content)
 
-            print(f'Synthesized image saved to {output_path}')
+            print(f"Synthesized image saved to {output_path}")
 
-        if __name__ == '__main__':
+        if __name__ == "__main__":
             synthesize_image_from_source()
-        " > synthesize_image.py
-        python synthesize_image.py
 
     # Step 5: Commit and push the new synthesized image
     - name: Commit and push the new image
