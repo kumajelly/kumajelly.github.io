@@ -25,7 +25,7 @@ jobs:
       run: pip install openai requests
 
     # Step 4: Run Python script
-      # Use Python interpreter to execute the script
+      # This step writes and executes the Python script inline
     - name: Generate synthesized image
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -50,12 +50,11 @@ jobs:
             # Create a prompt based on the image names
             prompt = f"A creative synthesis of the following travel photos: {', '.join([os.path.basename(img) for img in source_images])}."
 
-            # Call the OpenAI API for image synthesis
+            # Call the OpenAI API for image generation
             response = openai.Image.create(
                 prompt=prompt,
                 n=1,
-                size="1024x1024",
-                response_format="url",
+                size="1024x1024"
             )
 
             # Download the generated image
