@@ -3,7 +3,7 @@ layout: page
 title: Enablement Portfolio
 permalink: /enablement-portfolio/
 ---
-## Technology Transformation and Enablement Specialist
+## Digital Adoption & Transformation Leader
 
 **Enablement Portfolio**
 As a digital adoption specialist and technologist, I’m dedicated to empowering people and organizations by designing innovative solutions—helping them learn, adapt, and scale. My portfolio highlights successes in enhancing onboarding, streamlining workflows, analyzing tech stacks, and leveraging AI to transform knowledge management, all with measurable outcomes.
